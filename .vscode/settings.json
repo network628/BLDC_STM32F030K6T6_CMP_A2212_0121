@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "analog.h": "c",
+        "gpio_init.h": "c",
+        "user_config.h": "c",
+        "sysconfig.h": "c",
+        "stm32f0xx.h": "c",
+        "system_stm32f0xx.h": "c",
+        "stdio.h": "c"
+    }
+}
